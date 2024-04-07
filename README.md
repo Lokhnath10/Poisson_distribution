@@ -74,7 +74,8 @@ else:
 
 # Output : 
 
-![Uploading image.png…]()
+![image](https://github.com/Lokhnath10/Poisson_distribution/assets/138969918/00a52470-a170-4d43-bfc2-ff8aa65b7f2e)
+
 
 
 # Results
